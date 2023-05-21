@@ -1,0 +1,12 @@
+C:\Users\Ek Latino\source\repos\WformalarioServer\WformalarioServer\bin\Debug\WformalarioServer.exe.config
+C:\Users\Ek Latino\source\repos\WformalarioServer\WformalarioServer\bin\Debug\WformalarioServer.exe
+C:\Users\Ek Latino\source\repos\WformalarioServer\WformalarioServer\bin\Debug\WformalarioServer.pdb
+C:\Users\Ek Latino\source\repos\WformalarioServer\WformalarioServer\obj\Debug\WformalarioServer.csproj.AssemblyReference.cache
+C:\Users\Ek Latino\source\repos\WformalarioServer\WformalarioServer\obj\Debug\WformalarioServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ek Latino\source\repos\WformalarioServer\WformalarioServer\obj\Debug\WformalarioServer.Form1.resources
+C:\Users\Ek Latino\source\repos\WformalarioServer\WformalarioServer\obj\Debug\WformalarioServer.Hijo.resources
+C:\Users\Ek Latino\source\repos\WformalarioServer\WformalarioServer\obj\Debug\WformalarioServer.Properties.Resources.resources
+C:\Users\Ek Latino\source\repos\WformalarioServer\WformalarioServer\obj\Debug\WformalarioServer.csproj.GenerateResource.cache
+C:\Users\Ek Latino\source\repos\WformalarioServer\WformalarioServer\obj\Debug\WformalarioServer.csproj.CoreCompileInputs.cache
+C:\Users\Ek Latino\source\repos\WformalarioServer\WformalarioServer\obj\Debug\WformalarioServer.exe
+C:\Users\Ek Latino\source\repos\WformalarioServer\WformalarioServer\obj\Debug\WformalarioServer.pdb
